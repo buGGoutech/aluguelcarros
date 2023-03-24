@@ -1,4 +1,4 @@
-# 🍴 Website Aluguel de Carros
+# 🚗 Website Aluguel de Carros
 Este é o repositório site de aluguel de carros, que oferece uma ampla variedade de modelos e opções de aluguel para atender às necessidades dos clientes. O site é construído com tecnologias modernas e fornece várias funcionalidades para facilitar o processo de aluguel.
 
 # Funcionalidades
@@ -7,7 +7,7 @@ Este é o repositório site de aluguel de carros, que oferece uma ampla variedad
 - Contato com suporte ao cliente via chat online e telefone.
 
 # Tecnologias utilizadas
-O site do Restaurante Royate é construído com as seguintes tecnologias:
+O site é construído com as seguintes tecnologias:
 
 - HTML5 
 - CSS3
